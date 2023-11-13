@@ -1,4 +1,4 @@
-package move;
+package move.status;
 
 import ru.ifmo.se.pokemon.*;
 

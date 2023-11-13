@@ -1,6 +1,6 @@
 package pokemon;
 
-import move.HealPulse;
+import move.status.HealPulse;
 
 public class Aromatisse extends Spritzee {
     public Aromatisse(String name, int lvl) {

@@ -1,9 +1,9 @@
 package pokemon;
 
-import move.CalmMind;
-import move.ChargeBeam;
-import move.ShockWave;
-import move.Thunder;
+import move.status.CalmMind;
+import move.special.ChargeBeam;
+import move.special.ShockWave;
+import move.special.Thunder;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

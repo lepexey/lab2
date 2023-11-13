@@ -1,4 +1,4 @@
-package move;
+package move.special;
 
 import ru.ifmo.se.pokemon.*;
 

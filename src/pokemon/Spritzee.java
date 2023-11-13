@@ -1,8 +1,8 @@
 package pokemon;
 
-import move.ChargeBeam;
-import move.EnergyBall;
-import move.Swagger;
+import move.special.ChargeBeam;
+import move.special.EnergyBall;
+import move.status.Swagger;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

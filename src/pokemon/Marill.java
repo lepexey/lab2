@@ -1,6 +1,6 @@
 package pokemon;
 
-import move.Refresh;
+import move.special.Refresh;
 import ru.ifmo.se.pokemon.Type;
 
 public class Marill extends Azurill {

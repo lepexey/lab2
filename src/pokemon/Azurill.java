@@ -1,7 +1,7 @@
 package pokemon;
 
-import move.Bubble;
-import move.DoubleTeam;
+import move.special.Bubble;
+import move.status.DoubleTeam;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
