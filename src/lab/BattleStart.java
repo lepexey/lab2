@@ -14,17 +14,14 @@ public class BattleStart {
         Spritzee f2 = new Spritzee("Spir", 1);
         Azurill a3 = new Azurill("Aziz", 1);
         Azumarill f3 = new Azumarill("Azum", 1);
-//        b.addAlly(a1);
-//        b.addAlly(a2);
-//        b.addAlly(a3);
-//        b.addFoe(f1);
-//        b.addFoe(f2);
-//        b.addFoe(f3);
 
-        b.addAlly(new Aromatisse("Rick", 1));
-        b.addAlly(new Celesteela("Morty", 1));
-        b.addFoe(new Azumarill("Rick Prime", 1));
-        b.addFoe(new Celesteela("Angry Morty", 1));
+        b.addAlly(a1);
+        b.addAlly(a2);
+        b.addAlly(a3);
+        b.addFoe(f1);
+        b.addFoe(f2);
+        b.addFoe(f3);
+
         b.go();
     }
 
